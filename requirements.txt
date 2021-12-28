@@ -1,3 +1,7 @@
 flask
 discord
 requests
+geopy
+geocoder
+random_topic
+randfacts
